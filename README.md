@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mubashir Abbas
 - 👀 I’m interested in Full Stack .NET & Front End Developer jobs
-- 🌱 I’m currently working on multiple project 
+- 🌱 I’m currently working on multiple projects 
 - 💞️ I’m looking to collaborate on Project basis.
 - 📫 Reach me out 
 
